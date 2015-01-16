@@ -1,0 +1,3 @@
+[submodule "SkyglueCustomerTab"]
+	path = SkyglueCustomerTab
+	url = https://github.com/maierb/SkyglueCustomerTab.git
